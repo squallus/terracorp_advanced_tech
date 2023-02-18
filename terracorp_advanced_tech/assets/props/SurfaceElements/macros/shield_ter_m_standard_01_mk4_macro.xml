@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<macros>
+  <macro name="shield_ter_m_standard_01_mk4_macro" class="shieldgenerator" >
+    <component ref="shield_ter_m_standard_01_mk4" />
+    <properties>
+      <identification name="{51982,2134}" basename="{20106,2131}" shortname="{51982,2135}" makerrace="terran" description="{51982,2132}" mk="4" />
+      <recharge max="25500" rate="350" delay="0.07" />
+      <hull max="800" integrated="1" />
+    </properties>
+  </macro>
+</macros>

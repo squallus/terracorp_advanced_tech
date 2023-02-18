@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<content id="TCT" name="TerraCorp Advanced Ship Tech" description="Advanced TerraCorp Tech" version="200" author="Squallus.l" date="2021-12-14">
+  <dependency name="Cradle of Humanity" id="ego_dlc_terran" optional="false"/>
+</content>
