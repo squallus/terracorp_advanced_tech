@@ -4,8 +4,8 @@
   <macro name="shield_ter_s_standard_01_mk4_macro" class="shieldgenerator">
     <component ref="shield_ter_s_standard_01_mk4" />
     <properties>
-      <identification name="{20106,1184}" basename="{20106,1181}" shortname="{20106,1185}" makerrace="terran" description="{20106,1182}" mk="4" />
-      <recharge max="1482" rate="242" delay="11.5" />
+      <identification name="{51982,2137}" basename="{20106,2135}" shortname="{20106,1185}" makerrace="terran" description="{20106,1182}" mk="4" />
+      <recharge max="3500" rate="242" delay="5.5" />
       <hull integrated="1" />
     </properties>
   </macro>
