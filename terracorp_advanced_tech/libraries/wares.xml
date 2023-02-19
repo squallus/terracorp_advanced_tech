@@ -17,7 +17,7 @@
 		<owner faction="pioneers" />
 		<owner faction="terran" />
 		</ware>
-		<ware id="shield_ter_s_standard_01_mk4" name="{20106,1184}" description="{20106,1182}" group="shields" transport="equipment" volume="1" tags="equipment shield">
+		<ware id="shield_ter_s_standard_01_mk4" name="{51982,2137}" description="{51982,2136}" group="shields" transport="equipment" volume="1" tags="equipment shield">
       <price min="239622" average="266248" max="292872" />
       <production time="10" amount="1" method="default" name="{20206,101}">
         <primary>
